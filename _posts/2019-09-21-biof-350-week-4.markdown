@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Week 4"
+date:   2019-09-04 19:05:35 -0700
+categories: lecture video
+author: "Ben Van Zant"
+---
+
+### Day 1  
+Due to Holiday there was no class day 1.
+
+### Day 2
+This lecture covered 3D image processors, and a 3D presentation on the professors work.
+
+{% youtube "https://www.youtube.com/watch?v=fCyjrSBbBYY" %}

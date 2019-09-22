@@ -1,0 +1,17 @@
+[
+    {
+    "name":"lab1",
+    "due": "Aug 30th",
+    "description": "Write a program that draws diagnol lines over an image without altering the file."
+    },
+    {
+    "name":"lab2",
+    "due": "Sept 6th",
+    "description": "Write a program that overlays two images and blends the colors."
+    },
+    {
+    "name":"lab3",
+    "due": "Sept 20th",
+    "description":"Write a program that counts the pixel of synaptic vesticles."
+    }
+]

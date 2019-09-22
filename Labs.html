@@ -1,0 +1,12 @@
+---
+layout: page
+title: Labs
+background: '/img/vesticle.png'
+---
+<div>
+    {% for lab in site.data.labs %}
+        <h3>{{lab.name}}</h3>
+        <p>Due Date: {{lab.due}}</p>
+        <p>Description: {{lab.description}}</p>
+    {% endfor %}
+</div>

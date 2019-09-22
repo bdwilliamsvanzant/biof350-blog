@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Week 5"
+date:   2019-09-09 19:05:35 -0700
+categories: lecture video
+author: "Ben Van Zant"
+---
+
+### Day 1   
+During lecture we displayed images in 3D using an image stack and an array in python. We then displayed a side of the image stack in 3D.
+
+{% youtube "https://www.youtube.com/watch?v=6tNULhyacUQ" %}  
+
+### Day 2
+
+Discussed the research pressentation, viewed the fixed 3D demo for highlighting images. Discussed speed and usage with a 3D stack. Slides arent all aligned so will cause issue with projects.
+{% youtube "https://www.youtube.com/watch?v=Fh2Vq5wTaM0" %}

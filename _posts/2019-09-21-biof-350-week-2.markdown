@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Week 2"
+date:   2019-08-21 12:00:00 -0700
+categories: lecture video
+author: "Ben Van Zant"
+---
+### Day 1  
+This lecture we learned how to manipulate images using python library PIL and created color filters, spot lighting, washed out effect, and a blur.
+
+{% youtube "https://www.youtube.com/watch?v=vP6xKSbSesc" %}
+
+### Day 2  
+Continuation of the image filters and prep for the coming lab.
+
+{% youtube "https://www.youtube.com/watch?v=PBKPHrCQMNk" %}

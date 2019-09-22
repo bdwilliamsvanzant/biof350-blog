@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Week 3"
+date:   2019-08-26 19:05:35 -0700
+categories: lecture video
+author: "Ben Van Zant"
+---
+
+### Day 1  
+This lecture covered the different types of microscopes and their image outputs.
+
+
+### Day 2
+This lecture continued to cover the different types of microscopes and their image outputs and how the color scale is made.
+{% youtube "https://www.youtube.com/watch?v=BYBSFrpttj0" %}
